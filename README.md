@@ -27,9 +27,9 @@ COMPATIBILIDADE Segue abaixo os requisitos:
 Requisitos	Ferramentas Sistema operacional	Microsoft Windows 7
 
 Tecnologias 
-Linguagem de programação	
-C# orientado a objetos IDE Visual Studio 
-Design pattern	Google 
+Linguagem de programação C# orientado a objetos 
+IDE Visual Studio 
+Design pattern	
 Banco de dados SQL Server Microsoft Management Studio
 
 PROCEDIMENTO E ALTERAÇAO DE CONFIGURAÇÃO DO AMBIENTE 
